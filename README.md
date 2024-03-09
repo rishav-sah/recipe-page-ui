@@ -27,8 +27,8 @@ The challenge is to build out this recipe page and get it looking as close to th
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/rishav-sah/recipe-page-ui)
+- Live Site URL: [Add live site URL here](https://rishav-sah.github.io/recipe-page-ui/)
 
 ## My process
 
